@@ -1,0 +1,4 @@
+baseURL = "https://flutemusic-freec.vercel.app"
+languageCode = "en-us"
+title = "Flute Sheet Music Free Download"
+theme = "hugo-theme-minos"
